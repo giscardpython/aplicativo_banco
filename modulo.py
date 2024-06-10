@@ -13,4 +13,8 @@ def saca(valor, saldo_atual):
     if pode_sacar(valor, saldo_atual):
         print("Saque Autorizado")
     else:
+<<<<<<< HEAD
         print("Saldo Insuficiente!")      
+=======
+        print("Saldo Insuficiente!")
+>>>>>>> f57412f3868c893d01a693727f5cc1044d21bf5e

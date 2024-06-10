@@ -40,7 +40,7 @@ while True:
                     for nome in pessoas:
                         print(nome)        
                     continue
-                else: 
+                else: ca
                     os.system('cls')
                     for nome in pessoas:
                         print(nome)                
